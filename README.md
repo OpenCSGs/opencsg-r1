@@ -6,14 +6,6 @@
 2. [Plan of attack](#plan-of-attack)  
 3. [Installation](#installation)  
 4. [Training models](#training-models)  
-   - [SFT](#sft)  
-   - [GRPO](#grpo)  
-5. [Evaluating models](#evaluating-models)  
-6. [Reproducing Deepseek's evaluation results](#reproducing-deepseeks-evaluation-results)  
-7. [Data generation](#data-generation)  
-   - [Generate data from a smol distilled R1 model](#generate-data-from-a-smol-distilled-r1-model)  
-   - [Generate data from DeepSeek-R1](#generate-data-from-deepseek-r1)  
-8. [Contributing](#contributing)
 
 ## Overview
 
@@ -42,18 +34,6 @@ pip install -r requirements.txt
 
 
 ## Training models
-
-
-```shell
-# full parameter trainning method with grpo
-bash scripts/full_train_grpo.sh
-
-# lora trainning method with grpo
-bash scripts/lora_train_grpo.sh
-```
-
-
-## inference
 
 
 ```shell
