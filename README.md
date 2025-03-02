@@ -19,10 +19,6 @@ The goal of this repo is to build the different dataset or methods for trainning
 - `inference`: contains some code for model tests.
 
 
-<center>
-    <img src="assets/plan-of-attack.png" width="500">n
-</center>
-
 
 ## Installation
 
