@@ -3,9 +3,8 @@
 
 **Table of Contents**  
 1. [Overview](#overview)  
-2. [Plan of attack](#plan-of-attack)  
-3. [Installation](#installation)  
-4. [Training models](#training-models)  
+2. [Installation](#installation)  
+3. [Training models](#training-models)  
 
 ## Overview
 
